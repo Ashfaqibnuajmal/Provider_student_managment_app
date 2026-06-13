@@ -1,16 +1,26 @@
-# getx
+# Student Management App (Provider)
 
-A new Flutter project.
+A Flutter application for managing student records using Provider State Management. The app supports CRUD operations and follows a clean folder structure.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Add Student
+- View Students
+- Update Student Information
+- Delete Student Records
+- Provider State Management
+- Clean Folder Structure
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- Provider
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Purpose
+
+This project was built to learn Provider state management, CRUD operations, and clean Flutter project architecture.
+
+## Author
+
+Ashfaq KV
